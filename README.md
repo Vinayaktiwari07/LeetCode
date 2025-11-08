@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

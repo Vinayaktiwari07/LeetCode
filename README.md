@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0020-valid-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

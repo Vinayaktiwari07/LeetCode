@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0283-move-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## String

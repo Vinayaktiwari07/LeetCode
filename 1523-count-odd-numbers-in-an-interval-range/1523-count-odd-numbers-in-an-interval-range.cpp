@@ -1,13 +1,7 @@
 class Solution {
 public:
     int countOdds(int low, int high) {
-        int count = 0;
-        for(int i = low; i<=high; i++){
-            if(i%2 == 1){
-                count++;
-            }
-        }
+        return (high - low) / 2 + ((low % 2 == 1 || high % 2 == 1) ? 1 : 0);
 
-        return count;
     }
 };

@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->

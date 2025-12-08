@@ -8,7 +8,7 @@ public:
         for(int i=0; i<l; i++){
             for(int j=i+1; j<l; j++){
                 if(nums[i]==nums[j])
-                ans = nums[i];
+                return nums[i];
             }
         }
         return ans;

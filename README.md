@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->

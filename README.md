@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |

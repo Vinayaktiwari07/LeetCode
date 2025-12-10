@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |

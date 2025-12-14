@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0867-transpose-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
+| [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |

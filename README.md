@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
+| [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
+| [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
 | ------- |

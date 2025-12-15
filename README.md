@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
 | [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3701-compute-alternating-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

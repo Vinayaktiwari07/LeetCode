@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |

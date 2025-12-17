@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |

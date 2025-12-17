@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Tree
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |

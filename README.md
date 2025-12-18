@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |

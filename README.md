@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1528-shuffle-string) |

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3731-find-missing-elements) |

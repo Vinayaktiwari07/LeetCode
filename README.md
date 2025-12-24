@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2211-count-collisions-on-a-road](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -517,5 +520,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

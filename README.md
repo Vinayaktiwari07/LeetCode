@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0278-first-bad-version) |
@@ -453,11 +455,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1480-running-sum-of-1d-array) |

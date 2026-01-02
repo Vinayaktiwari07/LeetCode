@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
 | [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

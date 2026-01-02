@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer

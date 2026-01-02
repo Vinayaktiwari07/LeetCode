@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer

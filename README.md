@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1486-xor-operation-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |

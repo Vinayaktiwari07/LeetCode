@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1323-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1486-xor-operation-in-an-array) |

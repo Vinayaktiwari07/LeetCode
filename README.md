@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |

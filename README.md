@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2864-maximum-odd-binary-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2652-sum-multiples) |
+| [2864-maximum-odd-binary-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3099-harshad-number) |

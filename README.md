@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
+| [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1037-valid-boomerang) |

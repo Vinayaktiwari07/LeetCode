@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1534-count-good-triplets) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |

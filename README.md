@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |

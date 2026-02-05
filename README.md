@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3379-transformed-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3452-sum-of-good-numbers) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3379-transformed-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |

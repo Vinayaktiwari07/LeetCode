@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1952-three-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2235-add-two-integers) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2951-find-the-peaks) |

@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |

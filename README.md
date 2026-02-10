@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |

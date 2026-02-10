@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3110-score-of-a-string) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3379-transformed-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3379-transformed-array) |

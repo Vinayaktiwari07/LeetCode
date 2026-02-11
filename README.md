@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |

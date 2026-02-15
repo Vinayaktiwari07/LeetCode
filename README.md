@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0242-valid-anagram) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |

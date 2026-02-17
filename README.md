@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1528-shuffle-string) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

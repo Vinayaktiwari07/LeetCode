@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0905-sort-array-by-parity) |

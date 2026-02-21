@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1037-valid-boomerang) |

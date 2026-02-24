@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
 | [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3583-count-special-triplets) |
 ## Math
 |  |

@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1952-three-divisors) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1929-concatenation-of-array) |

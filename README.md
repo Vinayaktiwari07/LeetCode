@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1550-three-consecutive-odds](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1122-relative-sort-array) |

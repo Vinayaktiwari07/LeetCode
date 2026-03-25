@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Brainteaser
 |  |

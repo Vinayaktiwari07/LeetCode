@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1859-sorting-the-sentence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

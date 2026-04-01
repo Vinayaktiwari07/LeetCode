@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2211-count-collisions-on-a-road](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2315-count-asterisks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |

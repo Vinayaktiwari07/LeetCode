@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
 | ------- |

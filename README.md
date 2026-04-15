@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |

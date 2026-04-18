@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |

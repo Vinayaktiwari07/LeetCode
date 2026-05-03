@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
 | ------- |

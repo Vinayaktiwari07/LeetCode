@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Divide and Conquer
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3516-find-closest-person) |

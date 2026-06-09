@@ -18,15 +18,7 @@ public:
             }
         }
         vector<int> arr;
-        // for(int i=0; i<smaller.size(); i++){
-        //     arr.push_back(smaller[i]);
-        // }
-        // for(int i=smaller.size(); i<smaller.size()+equaller.size(); i++){
-        //     arr.push_back(equaller[i]);
-        // }
-        // for(int i=smaller.size()+equaller.size(); i<smaller.size()+equaller.size()+greater.size(); i++){
-        //     arr.push_back(greater[i]);
-        // }
+        
         arr.insert(arr.end(), smaller.begin(), smaller.end());
         arr.insert(arr.end(), equaller.begin(), equaller.end());
         arr.insert(arr.end(), greater.begin(), greater.end());

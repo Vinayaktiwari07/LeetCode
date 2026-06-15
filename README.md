@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3827-count-monobit-integers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
 | ------- |

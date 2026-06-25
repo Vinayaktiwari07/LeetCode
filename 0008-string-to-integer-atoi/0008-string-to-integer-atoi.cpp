@@ -24,6 +24,5 @@ public:
             ++i;
         }
         return num*sign;
-
     }
 };

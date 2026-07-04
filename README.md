@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3861-minimum-capacity-box](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3731-find-missing-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3731-find-missing-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
 | ------- |

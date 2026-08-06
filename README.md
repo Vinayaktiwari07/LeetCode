@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3827-count-monobit-integers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree

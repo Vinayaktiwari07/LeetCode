@@ -1,24 +1,33 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if(n == 0) return 0;
+        if (n <= 2) return 0;
 
-        vector<bool> prime(n, true);  // all are prime marked already.
+        vector<bool> prime(n, true);
         prime[0] = prime[1] = false;
 
-        int ans = 0;
+        // Mark even numbers as non-prime
+        for (int i = 4; i < n; i += 2) {
+            prime[i] = false;
+        }
 
-        for(int i=0; i<n; i++){
-            if(prime[i]){
-                ans++;
-
-                int j=2*i;
-                while(j<n){
+        // Sieve only odd numbers
+        for (int i = 3; i * i < n; i += 2) {
+            if (prime[i]) {
+                for (int j = i * i; j < n; j += 2 * i) {
                     prime[j] = false;
-                    j += i;
                 }
             }
         }
+
+        int ans = 1; // 2 is prime
+
+        for (int i = 3; i < n; i += 2) {
+            if (prime[i]) {
+                ++ans;
+            }
+        }
+
         return ans;
     }
 };

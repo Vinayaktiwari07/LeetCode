@@ -1,13 +1,22 @@
 class Solution {
 public:
-    int missMul(vector<int> &nums, int k){
-        while()
-    }
     int missingMultiple(vector<int>& nums, int k) {
         int n = nums.size();
-        int j=1;
-        
+        int ans = 0;
+        for(int i=k; i<=1000; i += k){
+            bool flag = false;
+            for(int j=0; j<n; j++){
+                if(i == nums[j]){
+                    flag = true;
+                    break;
+                }
+            }
+            if(flag == false){
+                ans = i;
+                break;
+            }
+        }
 
-        int MissMul(nums, k);
+        return ans;
     }
 };

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue

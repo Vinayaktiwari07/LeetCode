@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
@@ -975,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

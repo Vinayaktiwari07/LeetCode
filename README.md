@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2951-find-the-peaks) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1007,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

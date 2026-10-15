@@ -5,7 +5,8 @@ public:
         int ans = 0;
 
         for(int i=0; i<n; i++){
-            set<int> s;
+            unordered_set<int> s;
+            
             for(int j=i; j<n; j++){
                 s.insert(nums[j]);
 

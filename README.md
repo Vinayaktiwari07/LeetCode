@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |

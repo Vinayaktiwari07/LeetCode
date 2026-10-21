@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0202-happy-number) |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1037-valid-boomerang) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

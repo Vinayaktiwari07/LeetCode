@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0657-robot-return-to-origin) |

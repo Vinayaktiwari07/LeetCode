@@ -1,71 +1,42 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        if(nums1.size() > nums2.size()){
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
         int m = nums1.size();
         int n = nums2.size();
-        int size = m+n;
 
-        int idx1 = (size/2)-1;
-        int element1 = -1;
+        int l = 0;
+        int r = m;
 
-        int idx2 = (size/2);
-        int element2 = -1;
-        
-        int i = 0; // nums1
-        int j = 0; // nums2
+        while(l <= r){
+            int Px = l + (r-l)/2; // mid -> from nums1
+            int Py = (m+n+1)/2 - Px; // from nums2
 
-        int k = 0;
+            // Left half waale
+            int x1 = (Px == 0) ? INT_MIN : nums1[Px-1];
+            int x2 = (Py == 0) ? INT_MIN : nums2[Py-1];
 
-        while(i<m && j<n){
-            if(nums1[i] < nums2[j]){
-                if(k == idx1){
-                    element1 = nums1[i];
+            // Right half waale
+            int x3 = (Px == m) ? INT_MAX : nums1[Px];
+            int x4 = (Py == n) ? INT_MAX : nums2[Py];
+
+            if(x1 <= x4 && x2 <= x3){
+                if((m+n)%2 == 1){
+                    return max(x1, x2);
                 }
-                if(k == idx2){
-                    element2 = nums1[i];
-                }
-                i++;
+                return (max(x1, x2) + min(x3, x4))/2.0;
+            }
+
+            if(x1 > x4){
+                r = Px-1;
             }else{
-                if(k == idx1){
-                    element1 = nums2[j];
-                }
-                if(k == idx2){
-                    element2 = nums2[j];
-                }
-                j++;
+                l = Px+1;
             }
-            k++;
         }
-
-        while(i<m){
-            if(k == idx1){
-                element1 = nums1[i];
-            }
-            if(k == idx2){
-                element2 = nums1[i];
-            }
-            i++;
-            k++;
-        }
-
-        while(j<n){
-            if(k == idx1){
-                element1 = nums2[j];
-            }
-            if(k == idx2){
-                element2 = nums2[j];
-            }
-            j++;
-            k++;
-        }
-
-        
-        if(size%2 == 1){// odd
-            return element2;
-        }else{ // even
-            return (element1 + element2) / 2.0;
-        }
-
+        return -1;
 
     }
 };

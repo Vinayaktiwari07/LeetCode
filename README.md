@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0455-assign-cookies) |

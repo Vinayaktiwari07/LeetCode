@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
@@ -1121,11 +1123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
 ## Quicksort
 |  |
 | ------- |
@@ -1144,4 +1148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->

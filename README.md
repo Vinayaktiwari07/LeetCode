@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0767-reorganize-string) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |

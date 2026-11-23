@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -1163,4 +1166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0686-repeated-string-match) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

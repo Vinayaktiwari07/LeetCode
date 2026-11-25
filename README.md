@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3861-minimum-capacity-box](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1060,12 +1063,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -1192,4 +1197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->

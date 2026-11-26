@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |

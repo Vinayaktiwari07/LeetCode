@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0561-array-partition) |
+| [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
 | [0648-replace-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
 | [0633-sum-of-square-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
 | [0973-k-closest-points-to-origin](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1037-valid-boomerang) |
 ## Segment Tree
@@ -1253,4 +1256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->

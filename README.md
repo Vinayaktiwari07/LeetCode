@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
@@ -1103,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Primality Test
@@ -1220,4 +1226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

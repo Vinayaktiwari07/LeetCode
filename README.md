@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Enumeration
 |  |
 | ------- |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |

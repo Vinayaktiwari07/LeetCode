@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |

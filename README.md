@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -1300,18 +1303,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hungarian Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Bipartite Graph
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matching (Graph)
 |  |

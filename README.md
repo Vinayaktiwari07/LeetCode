@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0204-count-primes) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |

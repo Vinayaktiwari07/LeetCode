@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1720-decode-xored-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
@@ -1296,4 +1300,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Perfect Matching
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Flow Network
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->

@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0561-array-partition) |
 | [0587-erect-the-fence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0587-erect-the-fence) |
 | [0648-replace-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0648-replace-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0724-find-pivot-index) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0868-binary-gap) |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
@@ -1139,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Primality Test
 |  |
@@ -1277,4 +1282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0037-sudoku-solver) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->

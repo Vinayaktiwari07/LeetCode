@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0472-concatenated-words) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1343,4 +1346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

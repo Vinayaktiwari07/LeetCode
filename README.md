@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -1370,4 +1372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

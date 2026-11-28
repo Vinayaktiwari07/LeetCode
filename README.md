@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0506-relative-ranks) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1947-maximum-compatibility-score-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1365,4 +1369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vinayaktiwari07/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
